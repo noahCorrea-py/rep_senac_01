@@ -1,6 +1,6 @@
 # AULA 01 !
 
-## Nomeclatura
+## NOMENCLATURA
 - Um arquivo .py em python, chamamos de módulo.
 - Uma pasta dentro do workspace, chamamos de diretório.
 
@@ -9,7 +9,7 @@
 ``camelCase`` -> Primeira letra da primeira palavra em minúsculo e toda 
 próxima palavra a primeira letra em maiúsculo.
 
-## Observações
+## OBSERVAÇÕES
 1. Python é uma linguagem fracamente tipada.
 
 ================================================================================
@@ -21,13 +21,13 @@ utilizamos o comand :.2f (ou o número que desejar).
 2. Ao dividirmos dois números inteiros, caso seja necessário, ocorre uma
 conversão implícita [casting]
 
-## Variáveis
+## VARIÁVEIS
 ``String`` -> Conjunto de caracteres especiais ou não.
 ``Number int`` -> Números inteiros.
 ``Number float`` -> Números decimais.
 ``Boolean`` -> Verdadeiro ou falso.
 
-## Métodos
+## MÉTODOS
 ``Input()`` -> Entrada de dados.
 ``Print()`` -> Saída de dados.
 ``Def()`` -> Função.
@@ -47,6 +47,21 @@ Podemos utilizar os () para quebrar ou organizar uma operação.
 
 ================================================================================
 
+# AULA 05 !
+
+## ESTRUTURAS DE REPETIÇÃO
+
+1. for
+-> Você ira utilizar quando de antemão se sabe a quantidade de vezes que a repetição irá acontecer.
+Normalmente, é utilizada para `iterar` sobre elementos de uma sequência.
+  1.1 - range() -> Gera uma sequência de números. (inclusivo, exclusivo).
+
+2. while
+->  Será utilizado quando você não sabe ao certo quantas vezes a repetição irá acontecer.
+Será executado enquanto a condição for verdadeira.
+
+================================================================================
+
 ## Atalhos no VScode
 ``CTRL + B`` -> Oculta ou exibe o explorador.
 ``CTRL + ;`` -> Comentário de linha.
@@ -58,5 +73,10 @@ Podemos utilizar os () para quebrar ou organizar uma operação.
 ``ALT + Z`` -> Quebra linha sem pular linha.
 ``CTRL + D`` -> Permite alterar a mesma palavra ao mesmo tempo.
 ``ALT + SETA`` -> Mover a linha para cima ou para baixo.
+``CTRL + SHIFT + U`` -> Transforma o texto em maiúsculo.
+
+## Atalhos no Windows
+``Windows + Ç`` -> Exibe emojis e caricteres especiais.
+``Windows + R`` -> Escrever CMD abre o terminal.
 
 
