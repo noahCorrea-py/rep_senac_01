@@ -62,6 +62,21 @@ Será executado enquanto a condição for verdadeira.
 
 ================================================================================
 
+# AULA 06 !
+
+## COMANDO DE DESVIO
+
+1. continue -> Significa continuar, basicamente se uma condição for favorável, ela será desconsiderada.
+2. break -> Significa quebrar, quando uilizado irá finalizar o loop mais próximo.
+
+
+## OBSERVAÇÕES 
+
+1. .lower() -> Quando utilizado, transforma uma string em minúscula.
+  ex: "sair" pode ser inserido como "Sair", "SAIR", "sAIR", etc...
+
+================================================================================
+
 ## Atalhos no VScode
 ``CTRL + B`` -> Oculta ou exibe o explorador.
 ``CTRL + ;`` -> Comentário de linha.
@@ -76,7 +91,7 @@ Será executado enquanto a condição for verdadeira.
 ``CTRL + SHIFT + U`` -> Transforma o texto em maiúsculo.
 
 ## Atalhos no Windows
-``Windows + Ç`` -> Exibe emojis e caricteres especiais.
+``Windows + .`` -> Exibe emojis e caricteres especiais.
 ``Windows + R`` -> Escrever CMD abre o terminal.
 
 
