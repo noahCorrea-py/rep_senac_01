@@ -69,6 +69,10 @@ Será executado enquanto a condição for verdadeira.
 1. continue -> Significa continuar, basicamente se uma condição for favorável, ela será desconsiderada.
 2. break -> Significa quebrar, quando uilizado irá finalizar o loop mais próximo.
 
+## FUNÇÕES
+
+-> É um bloco de código que é reutilizável. Serve para deixar o código mais organizado e eficiente. `Executam uma tarefa específica`
+
 
 ## OBSERVAÇÕES 
 
@@ -89,6 +93,7 @@ Será executado enquanto a condição for verdadeira.
 ``CTRL + D`` -> Permite alterar a mesma palavra ao mesmo tempo.
 ``ALT + SETA`` -> Mover a linha para cima ou para baixo.
 ``CTRL + SHIFT + U`` -> Transforma o texto em maiúsculo.
+``SHIFT + ALT + F`` -> Ajusta a estrutura do código.
 
 ## Atalhos no Windows
 ``Windows + .`` -> Exibe emojis e caricteres especiais.
